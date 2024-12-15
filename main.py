@@ -7,7 +7,7 @@ import threading
 # إعداد Firebase
 cred = credentials.Certificate("firebase.json")  # تأكد من أنك قمت بتحميل ملف المفتاح الخاص
 firebase_admin.initialize_app(cred, {
-    "databaseURL": "https://iraqi-gold-coin-default-rtdb.firebaseio.com"  # رابط قاعدة البيانات
+    "databaseURL": ""  # رابط قاعدة البيانات
 })
 
 # مرجع قاعدة البيانات
