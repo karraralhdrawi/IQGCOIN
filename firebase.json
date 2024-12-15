@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iraqi-gold-coin",
+  "private_key_id": "05e2ec90cf80f393fef77c0725c1566b00a0f8fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtNwSgyQJyBXWX\nWZ/2hWxWCxoTn5DH9TvbN17xDof/zftDBtQXtQtJdf/TkPH+gE3VxV9KUl8jNbJX\nSdn57DLx7IpA46YgYYd6RZqVp8SmZAVTkCMB6CXK6N3nvzjyInHw7ZBt2sgfSNtg\nVSuh8owEKxC3dC3WGFCupPjdLH228REw3sjt/Dycp6BffjxmBLpguLn3tPOGyih7\nNZQ3nz/jzFM7V8sB7Ot9JoL7zWGhUwtU++iBnfFqt8ybe3fGTXUbvDEskbcr3A9N\n4iYp2dB3cHcT5xdMMurxJbX/ybLMLRvFPnjpuoAKAj2y5yRmdqxm12/k0+VDyggD\nHntqdFY3AgMBAAECggEAM3I43Kx3HniCoY5MFYMxVyj6+MMW1F0BBy4d88jWGeMK\n8rBvhA8QqCP09NiDF4zyEUEK+V8XxLRpIMXdiP5fbz1LHtS+fbWZ8HYF4NcwcB8a\n+ePAkgtqVibt6awA9OHIJ7/XetlVQP15stX5HKOWdJJ555MJHiKgrA5xn/db616W\n9F2AXMmXem+TqzkzntCNesi2rqZ3SBpcIRRmDEHeqf06U0pxEGOvhE6IAa1sgJz+\nBJ50+pK47xzqldii3Dcf9QsrPwUvUmywfHFtSLAc6YlNf8oiK66UUNIpFGGxcGpz\nzmPX8VxUzPekpY453JfkgeNGYRFEQx8fY2hvnlZwkQKBgQDdtoxira7uxYBDzdQ4\nTkmjOGFmm6LREf2L05Mt0bUApYtrEuT0ktO7eqXjHHzxt0iSU19A55QXICbcxxUf\nbZGuobFp2YdRbRlTAGGlDyFmJ3DlM/n/j7AjYeKl0UN8ppgujNfeGDOqDamnYxYR\n6/6RHPFdF9jX9YfNMfqnIwIv7wKBgQDIAHbfexP4yY3W0VVwUZi1L3DICajeTyna\n757VjHARWF/csioNBCayGC0NxB+uWGrkuYikluzpe9kUF6RfdrToZJ27rrq4Ihv8\nI8/W8do73Wq69bJ9IEimB8dl5eqF0ayzwxq6QwKUQx+NhhUuD2PuLkvCfcJCFCzd\nUFH94Zj2OQKBgCDi5/XnH1CJeRoVmMn1StTsEv5+TWtHiN1Jt8YPGhMLex+ZwN5K\nPR/M9Hg4jIvqDNivhyyAbSX0/e63lPmBbh+CGmfB/WFllmEKaHFsSh718Lf+urFe\npdjJty2zWZhOuboF6CsoWdl6h1StzONBpxPtQBv34pE9+TPFmxFZjwR/AoGANAaq\n5YeGsnj7xJ2/s/AF4Vvt4ptgqjO9l44tqy9VF639gdN2zNv/lORlE+eothmZ9NWu\njeIUzsfAuFFOGOcwOCO0RFY3jB6TWQuXzTosotX+JZQ0UghL3aS4YfFlCFp6qmhe\nU4WK7jZnxtDSQaEPRa4VVwqPtdC5uvhh28ELoUECgYB7tIW6e4WgyVmLeQHGANT5\n4YhpPukFkx1VB+Mfd3XTTqIun0WGBSCC2uLyv/0L2zYnVeQ76lWCFBKV4tnOd/I8\n6+HN7Qm/uueX38yPYvsAwfqsJ8RjKgLsNWEwsDco8Ljn7b33yhcWOxwDpa9h34Gz\n7khjXnLa4XixGOm6DLuqZg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9928k@iraqi-gold-coin.iam.gserviceaccount.com",
+  "client_id": "116473081668364949134",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9928k%40iraqi-gold-coin.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
